@@ -11,6 +11,7 @@
 
 ## General info
 The application shows how the quick sort algorithm works in practice.
+![alt text](https://github.com/Miklakapi/QuickSort-School-Project/blob/master/quick_sort.png)
 
 ## Technologies
 Project is created with:
